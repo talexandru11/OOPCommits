@@ -9,7 +9,7 @@ public:
 	bool culoare; //1 = alb, 0 = negru
 
 	void mutare() {
-	
+	//commit test
 	}
 };
 
